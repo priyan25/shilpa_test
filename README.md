@@ -6,3 +6,4 @@ testing by adding my email ID:shilpa3bz@gmail.com
 testing on previous case again
 we didnt receive email for succes case so testing again by making build failure
 testing on my new own jenkins server
+added : trigger-requestors
